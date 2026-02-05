@@ -1,0 +1,4 @@
+github.com/isathecatgirl/mensa-menu-wuerzburg v1.1.0 h1:eXg0OO1zqpGXKOl5Txe5rmbzUggQjeOZuAfUytLibDw=
+github.com/isathecatgirl/mensa-menu-wuerzburg v1.1.0/go.mod h1:Ta5Gg+BU+qSuHrWwsu2rV9RYgAV3mOS60752SlPn0SQ=
+golang.org/x/net v0.49.0 h1:eeHFmOGUTtaaPSGNmjBKpbng9MulQsJURQUAfUwY++o=
+golang.org/x/net v0.49.0/go.mod h1:/ysNB2EvaqvesRkuLAyjI1ycPZlQHM3q01F02UY/MV8=
